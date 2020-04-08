@@ -1,4 +1,4 @@
-Ths folder contains the implementation in MATLAB of the cmputer vision problem described in the file "computer_vision_problems.pdf".
+Ths folder contains the implementation in MATLAB of the cmputer vision problem described in the file "computer_vision_problems.txt".
 Each of the 6 exercises has its own folder. 
 Follow the following steps to run the code: 
 
