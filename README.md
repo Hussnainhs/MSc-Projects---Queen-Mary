@@ -1,1 +1,1 @@
-# MSc-Projects---Queen-Mary
+# MSc-Projects
